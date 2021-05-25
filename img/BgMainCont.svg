@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1562.909" height="797.017" viewBox="0 0 1562.909 797.017">
+    <defs>
+        <style>
+            .prefix__cls-2,.prefix__cls-3,.prefix__cls-4,.prefix__cls-6{fill:none}.prefix__cls-3,.prefix__cls-4{stroke:#707070}.prefix__cls-2,.prefix__cls-3{stroke-width:.5px}.prefix__cls-2,.prefix__cls-6{stroke:#fff}.prefix__cls-2{stroke-miterlimit:10;opacity:.249}.prefix__cls-3,.prefix__cls-4{opacity:.45}.prefix__cls-4{stroke-dasharray:2 3}.prefix__cls-5{opacity:.5}
+        </style>
+    </defs>
+    <g id="prefix__img_main_key" transform="translate(61.241 -1.483)">
+        <path id="prefix__패스_82" d="M0 0v517.5" data-name="패스 82" transform="translate(1360 2)" style="opacity:.72;stroke-width:.5px;stroke:#707070;fill:none"/>
+        <path id="prefix__패스_80" d="M2534.989 1091.531a31.417 31.417 0 0 1 27.377-16.026l89.425-.005v-20.749l-89.39.005a31.4 31.4 0 0 1-31.44-31.427v-89.4h-20.742v89.395a31.413 31.413 0 0 1-31.434 31.434h-89.4v20.748h89.419a31.421 31.421 0 0 1 31.413 31.426l-.006 89.4 20.749-.007v-89.4a31.422 31.422 0 0 1 4.028-15.4" class="prefix__cls-2" data-name="패스 80" transform="rotate(90 2152.5 282.847)"/>
+        <path id="prefix__패스_83" d="M2534.989 1091.531a31.417 31.417 0 0 1 27.377-16.026l89.425-.005v-20.749l-89.39.005a31.4 31.4 0 0 1-31.44-31.427v-89.4h-20.742v89.395a31.413 31.413 0 0 1-31.434 31.434h-89.4v20.748h89.419a31.421 31.421 0 0 1 31.413 31.426l-.006 89.4 20.749-.007v-89.4a31.422 31.422 0 0 1 4.028-15.4" class="prefix__cls-2" data-name="패스 83" transform="rotate(135 1992.815 527.152)"/>
+        <path id="prefix__패스_81" d="M2534.989 1091.531a31.417 31.417 0 0 1 27.377-16.026l89.425-.005v-20.749l-89.39.005a31.4 31.4 0 0 1-31.44-31.427v-89.4h-20.742v89.395a31.413 31.413 0 0 1-31.434 31.434h-89.4v20.748h89.419a31.421 31.421 0 0 1 31.413 31.426l-.006 89.4 20.749-.007v-89.4a31.422 31.422 0 0 1 4.028-15.4" class="prefix__cls-2" data-name="패스 81" transform="rotate(90 1761.5 -626.153)"/>
+        <g id="prefix__그룹_333" data-name="그룹 333">
+            <path id="prefix__선_70" d="M0 0L0 534" class="prefix__cls-3" data-name="선 70" transform="translate(80.5 264.5)"/>
+            <path id="prefix__선_71" d="M1 0L0 655" class="prefix__cls-3" data-name="선 71" transform="translate(200.5 143.5)"/>
+            <path id="prefix__선_79" d="M0 0L1 490" class="prefix__cls-3" data-name="선 79" transform="translate(1239 2)"/>
+            <path id="prefix__선_86" d="M0 0L0 93" class="prefix__cls-3" data-name="선 86" transform="translate(1240 547.5)"/>
+            <path id="prefix__선_87" d="M0 0L0 56" class="prefix__cls-4" data-name="선 87" transform="translate(1240 492.5)"/>
+            <path id="prefix__선_74" d="M0 0L0 796" class="prefix__cls-3" data-name="선 74" transform="translate(699.717 2)"/>
+            <path id="prefix__선_75" d="M0 0L0 796" class="prefix__cls-4" data-name="선 75" transform="translate(720.25 2)"/>
+            <path id="prefix__선_76" d="M0 0L0 796" class="prefix__cls-3" data-name="선 76" transform="translate(740.783 2)"/>
+            <path id="prefix__선_72" d="M0 0L0 796" class="prefix__cls-3" data-name="선 72" transform="translate(434.956 2)"/>
+            <path id="prefix__선_78" d="M0 0L0 796" class="prefix__cls-3" data-name="선 78" transform="translate(964.479 2)"/>
+            <path id="prefix__선_73" d="M0 0L0 796" class="prefix__cls-3" data-name="선 73" transform="translate(476.021 2)"/>
+            <path id="prefix__선_77" d="M0 0L0 796" class="prefix__cls-3" data-name="선 77" transform="translate(1005.544 2)"/>
+            <path id="prefix__선_81" d="M0 0L1159 0" class="prefix__cls-3" data-name="선 81" transform="translate(201.5 143.5)"/>
+            <path id="prefix__선_82" d="M0 0L1159 0" class="prefix__cls-3" data-name="선 82" transform="translate(80.5 640.5)"/>
+        </g>
+        <g id="prefix__그룹_330" class="prefix__cls-5" data-name="그룹 330" transform="rotate(45 1239.5 143.5)">
+            <path id="prefix__선_88" d="M10 0L0 10" class="prefix__cls-6" data-name="선 88" transform="translate(1234.5 138.5)"/>
+            <path id="prefix__선_89" d="M10 10L0 0" class="prefix__cls-6" data-name="선 89" transform="translate(1234.5 138.5)"/>
+        </g>
+        <g id="prefix__그룹_331" class="prefix__cls-5" data-name="그룹 331">
+            <path id="prefix__선_90" d="M10 0L0 10" class="prefix__cls-6" data-name="선 90" transform="translate(196.5 635.5)"/>
+            <path id="prefix__선_91" d="M10 10L0 0" class="prefix__cls-6" data-name="선 91" transform="translate(196.5 635.5)"/>
+        </g>
+    </g>
+</svg>
